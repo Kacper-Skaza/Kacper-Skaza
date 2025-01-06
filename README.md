@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kacper-Skaza
+👋 Hi, I’m @Kacper-Skaza
 
-I am a second-year computer science student with a passion for programming and technology. My solid theoretical foundation was obtained at university, complemented by practical skills gained from creating my own projects. Proficient in programming languages such as C++, C#, C, Python, HTML, and CSS, I have also used game development software like Unity. Eager to learn and dedicated, I am ready for new challenges in the IT industry. Seeking my first professional experiences, I aim to develop my skills further and contribute to my professional growth.
+A second-year Computer Science student with a passion for programming and technology. Equipped with a solid theoretical foundation gained during studies and practical experience from personal projects. Proficient in programming languages such as C++, C#, C, Java, Python, and HTML. Experienced in using game development software like Unity. Ambitious, quick to learn, and seeking career development opportunities to enhance skills and gain practical knowledge in the IT industry.
 
 <!---
 Kacper-Skaza/Kacper-Skaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
