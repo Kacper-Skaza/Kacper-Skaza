@@ -5,7 +5,7 @@
 <!--[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)-->
 
 ### 👨‍💻 About me:
-A second-year Computer Science student with a passion for programming and technology. Equipped with solid theoretical foundation gained during studies and practical experience from personal projects. Proficient in C++, C#, C, Java, Python, Kotlin, HTML and CSS. Experienced in Unity. Ambitious, quick to learn, and seeking opportunities to develop skills and gain practical experience in the IT industry.
+A second-year Computer Science student with a passion for programming and technology. Equipped with solid theoretical foundation gained during studies and practical experience from personal projects. Proficient in C++, C#, C, Java, Python, Kotlin, HTML, and CSS. Also experienced with Microsoft Office, Git, Bash and Unity. Ambitious, quick to learn, and actively seeking opportunities for growth in the IT industry.
 
 ### 📂 Project categories:
 - [📄 CV](https://github.com/stars/Kacper-Skaza/lists/cv)
